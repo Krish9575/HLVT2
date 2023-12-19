@@ -13,7 +13,7 @@ This Python-based application, featuring a graphical user interface built using 
 ## How It Works
 1. **Initialization:** The application initializes libraries and sets up the GUI for an immersive user experience.
 2. **Voice Command Activation:** Clicking the 'START' button activates voice command recognition.
-3. **Language Selection:** Users are prompted to provide the desired language for translation.
+3. **Language Selection:** Users have to speak to provide the desired language for translation.
 4. **Translation Process:**
     - Captures voice input and converts it to text.
     - Utilizes `googletrans` for real-time language translation.
